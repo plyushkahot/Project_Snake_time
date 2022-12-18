@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 
-extern int n, m;//размер сетки
-extern int applex, appley;//начальные координаты яблока
+extern int n, m; //СЂР°Р·РјРµСЂ СЃРµС‚РєРё
+extern int applex, appley; //РЅР°С‡Р°Р»СЊРЅС‹Рµ РєРѕРѕСЂРґРёРЅР°С‚С‹ СЏР±Р»РѕРєР°
 
 void newapple();
