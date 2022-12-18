@@ -2,6 +2,6 @@
 #include <iostream>
 #include <Windows.h>
 
-extern char field[19][19];//массив символов для отрисовки
-extern int applex, appley;//начальные координаты яблок
+extern char field[19][19]; //РјР°СЃСЃРёРІ СЃРёРјРІРѕР»РѕРІ РґР»СЏ РѕС‚СЂРёСЃРѕРІРєРё
+extern int applex, appley; //РЅР°С‡Р°Р»СЊРЅС‹Рµ РєРѕРѕСЂРґРёРЅР°С‚С‹ СЏР±Р»РѕРє
 void drawApple();
