@@ -1,3 +1,4 @@
+#include "DrawField.h";
 void setcur(int x, int y)//установка курсора на позицию  x y 
 {
 	COORD coord;
