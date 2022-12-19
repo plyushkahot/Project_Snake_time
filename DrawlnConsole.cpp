@@ -18,7 +18,7 @@ void drawField()//
 			if (applex == i && appley == j)
 				cout << "\033[31m" << field[i][j] << field[i][j];
 			else
-				if (i == 0 || i == n || j == 0 || j == m)
+				if (i == 0 || i == n - 1 || j == 0 || j == m - 1)
 					cout << "\033[33m" << field[i][j] << field[i][j];
 				else
 					cout << "\033[32m" << field[i][j] << field[i][j];
