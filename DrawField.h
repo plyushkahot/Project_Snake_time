@@ -8,3 +8,4 @@ extern int applex, appley; //начальные координаты яблок
 void drawApple();
 void drawBorder();
 void cleanField();
+void drawSnake();
